@@ -9,5 +9,7 @@ This was written back in the day when there were only 12 teams in Victoria so to
 
 I wrote this program about fourty years ago in Fortran. It was originally coded on a CDC Cyber 830 mainframe but it should run with minimal changes on any platform with a Fortran compiler.
 
+Enjoy!
+
 Licence:
 MIT
